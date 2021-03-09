@@ -3,3 +3,6 @@ This particular dataset was created for the purpose of fulfilling specific cours
 
 Table of Contents
 - [Data Dictionary](#datadictionary)
+- [Metadata](#metadata)
+ - [Security](#security)
+ - [Contact](#contact)
